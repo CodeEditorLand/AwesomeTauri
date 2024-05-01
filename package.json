@@ -1,9 +1,37 @@
 {
+	"author": {
+		"email": "Land@PlayForm.Cloud",
+		"name": "🌆 — Land —",
+		"url": "HTTPS://Land.PlayForm.Cloud"
+	},
+	"bugs": {
+		"url": "HTTPS://GitHub.Com/CodeEditorLand/AwesomeTauri/issues"
+	},
 	"description": "<!-- <p align=\"center\">   <br>   <img width=\"400\" src=\"./assets/logo.svg\" alt=\"logo of awesome-vite repository\">   <br>   <br> </p> -->",
 	"devDependencies": {
+		"@playform/build": "0.0.7",
+		"@playform/document": "0.0.6",
 		"awesome-lint": "^0.18.0"
 	},
+	"homepage": "HTTPS://GitHub.Com/CodeEditorLand/AwesomeTauri#readme",
+	"keywords": [
+		"land"
+	],
+	"license": "SEE LICENSE IN LICENSE",
 	"main": "index.js",
 	"name": "awesome-tauri",
-	"scripts": {}
+	"private": false,
+	"publishConfig": {
+		"access": "public"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+HTTPS://github.com/CodeEditorLand/AwesomeTauri.git"
+	},
+	"scripts": {
+		"Document": "Document 'Source/**/*.ts'",
+		"prepublishOnly": "Build 'Source/**/*.ts'"
+	},
+	"type": "module",
+	"version": "0.0.1"
 }
