@@ -58,6 +58,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 - [angular-tauri](https://github.com/maximegris/angular-tauri) - Angular with Typescript, SASS, and Hot Reload.
 - [tauri-angular-template](https://github.com/charlesxsh/tauri-angular-boilerplate) - Angular template
+- [tauri-astro-template](https://github.com/HuakunShen/tauri-astro-template) - Astro template
 - [tauri-clojurescript-template](https://github.com/rome-user/tauri-clojurescript-template) - Minimal ClojureScript template with Shadow CLJS and React.
 - [tauri-deno-starter](https://github.com/marc2332/tauri-deno-starter) - React template using esbuild with Deno.
 - [tauri-leptos-template](https://gitlab.com/cristofa/tauri-leptos-template) - Leptos template
@@ -166,7 +167,9 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [AppHub](https://github.com/francesco-gaglione/AppHub) - Streamlines .appImage package installation, management, and uninstallation through an intuitive Linux desktop interface.
 - [Aptakube](https://aptakube.com/) ![closed source] - Multi-cluster Kubernetes UI.
 - [claws](https://clawsapp.com/) ![closed source] - Visual interface for the AWS CLI.
+- [CrabNebula DevTools](https://crabnebula.dev/devtools) - Visual tool for understanding your app. Optimize the development process with easy debugging and profiling.
 - [DevBox](https://www.dev-box.app/) ![closed source] - Many useful tools for developers, like generators, viewers, converters, etc.
+- [DevClean](https://github.com/HuakunShen/devclean) - Clean up development environment with ease.
 - [DevTools-X](https://github.com/fosslife/devtools-x) - Collection of 30+ cross platform development utilities.
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
 - [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows.
@@ -182,8 +185,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [TableX](https://tablex-tan.vercel.app/) - Table viewer for modern developers
 - [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) - Create and build cross-platform mobile applications.
 - [Testfully](https://testfully.io/) ![closed source] ![paid] - Offline API Client & Testing tool.
-- [verbcode](https://www.verbcode.com) ![closed source] ![paid] - Simplify your localization journey
-- [Yaak](https://yaak.app) ![closed source] - Interact with REST and GraphQL APIs
+- [verbcode](https://www.verbcode.com) ![closed source] ![paid] - Simplify your localization journey.
+- [Yaak](https://yaak.app) ![closed source] - Interact with REST and GraphQL APIs.
 
 ### Email & Feeds
 
@@ -231,7 +234,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Seismic](https://github.com/breadthe/seismic) - Taskbar app for USGS earthquake tracking.
 - [Stockman](https://github.com/awkj/stockman) - Display stock info on mac menubar.
 - [Watchcoin](https://github.com/lifecoder1988/tauri-watch-coin) - Display cypto price on OS menubar without a window.
-  
+
 ### Learning
 
 - [Manjaro Starter](https://github.com/oguzkaganeren/manjaro-starter) - Documentation and support app for new Manjaro users.
@@ -247,6 +250,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Mail-Dev](https://github.com/samirdjelal/mail-dev) - Cross-platform, local SMTP server for email testing/debugging.
 - [Nhex](https://github.com/nhexirc/nhex) - Next-generation IRC client inspired by HexChat.
 - [RustDesk](https://github.com/rustdesk/rustdesk-server) - Self-hosted server for RustDesk, an open source remote desktop.
+- [RustDuck](https://github.com/thewh1teagle/RustDuck) - Cross platform dynamic DNS updater for duckdns.org.
 - [T-Shell](https://github.com/TheBlindM/T-Shell) - An open-source SSH, SFTP intelligent command line terminal application.
 - [TunnlTo](https://github.com/TunnlTo/desktop-app) - Windows WireGuard VPN client built for split tunneling.
 - [UpVPN](https://github.com/upvpn/upvpn-app) - WireGuard VPN client for Linux, macOS, and Windows.
@@ -314,6 +318,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 - [AgeTimer](https://github.com/dhextras/age-timer-tauri) - Desktop utility that counts your age in real-time.
 - [Auto Wallpaper](https://github.com/auto-wallpaper/auto-wallpaper) - Automatically generates 4K wallpapers based on user's location, weather, and time of day or any custom prompts.
+- [bewCloud Desktop Sync](https://github.com/bewcloud/bewcloud-desktop) - Desktop sync app for bewCloud, a simpler alternative to Nextcloud and ownCloud.
 - [Browsernaut](https://github.com/billyjacoby/browsernaut) - Browser picker for macOS.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
 - [Clippy](https://github.com/0-don/clippy) - Modern & Fast Clipboard Manager.
