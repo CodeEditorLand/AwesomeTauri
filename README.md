@@ -90,7 +90,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [window-shadows](https://github.com/tauri-apps/window-shadows) ![officially maintained] - Add native shadows to your windows.
 - [tauri-plugin-positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) - Move windows to common locations.
 - [tauri-plugin-graphql](https://github.com/JonasKruckenberg/tauri-plugin-graphql) - Type-safe IPC for Tauri using GraphQL.
-- [tauri-plugin-sqlite](https://github.com/lzdyes/tauri-plugin-sqlite) - Interface to SQLite.
 - [sentry-tauri](https://github.com/timfish/sentry-tauri) - Capture JavaScript errors, Rust panics and native crash minidumps to Sentry.
 - [tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase) - Privacy-first and minimalist analytics for desktop and mobile apps.
 - [tauri-plugin-clipboard](https://github.com/CrossCopy/tauri-plugin-clipboard) - Clipboard plugin for reading/writing clipboard text/image, and monitoring clipboard update.
@@ -139,6 +138,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
 - [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
 - [Lofi Engine](https://github.com/meel-hd/lofi-engine) - Generate Lo-Fi music on the go and locally.
+- [XGetter](https://github.com/xgetter-team/xgetter) ![closed source]- Cross-platform GUI to download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
 - [yt-dlp GUI](https://github.com/gaeljacquin/yt-dlp-gui) - Cross-platform GUI client for the `yt-dlp` command-line audio/video downloader.
 
 ### ChatGPT clients
@@ -219,6 +219,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 - [9Launcher](https://github.com/wearrrrr/9Launcher) - Modern Cross-platform launcher for Touhou Project Games.
 - [BestCraft](https://github.com/Tnze/ffxiv-best-craft) - Crafting simulator with solver algorithms for Final Fantasy XIV(FF14).
+- [BetterFleet](https://github.com/zelytra/BetterFleet) - Help players of Sea of Thieves create an alliance server.
 - [clear](https://clear.adithya.zip) - Clean and minimalist video game library manager and launcher.
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility.
 - [En Croissant](https://github.com/franciscoBSalgueiro/en-croissant) - Chess database and game analysis app.
@@ -280,6 +281,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [GitBar](https://github.com/mikaelkristiansson/gitbar) - System tray app for GitHub reviews.
 - [Gitification](https://github.com/Gitification-App/gitification) - Menu bar app for managing Github notifications.
 - [Google Task Desktop Client](https://github.com/codad5/google-task-tauri) - Google Task Desktop Client
+- [Jarvis](https://jarvis.huakun.tech/) - Cross-platform, extensible app launcher. Alternative to Alfred and Raycast.
 - [Kanri](https://github.com/trobonox/kanri) - Cross-platform, offline-first Kanban board app with a focus on simplicity and user experience.
 - [Kianalol](https://github.com/zxh3/kianalol) - Spotlight-like efficiency tool for swift website access.
 - [Link Saas](https://github.com/linksaas/desktop) - Efficiency tools for software development teams.
