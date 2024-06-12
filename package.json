@@ -4,6 +4,6 @@
 	"main": "index.js",
 	"scripts": {},
 	"devDependencies": {
-		"awesome-lint": "1.2.0"
+		"awesome-lint": "^0.18.0"
 	}
 }
