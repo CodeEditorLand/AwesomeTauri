@@ -138,6 +138,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
 - [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
 - [Lofi Engine](https://github.com/meel-hd/lofi-engine) - Generate Lo-Fi music on the go and locally.
+- [Watson.ai](https://github.com/LatentDream/watson.ai) - Easily record and extract the most important information from your meetings.
 - [XGetter](https://github.com/xgetter-team/xgetter) ![closed source]- Cross-platform GUI to download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
 - [yt-dlp GUI](https://github.com/gaeljacquin/yt-dlp-gui) - Cross-platform GUI client for the `yt-dlp` command-line audio/video downloader.
 
@@ -243,6 +244,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Piano Trainer](https://github.com/ZaneH/piano-trainer) - Practice piano chords, scales, and more using your MIDI keyboard.
 - [Solars](https://github.com/hiltontj/solars) - Visualize the planets of our solar system.
 - [Syre](https://github.com/syre-data/syre) - Scientific data assistant.
+- [Rosary](https://github.com/Roseblume/Rosary) - Study Christianity.
 
 ### Networking
 
@@ -322,6 +324,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [AgeTimer](https://github.com/dhextras/age-timer-tauri) - Desktop utility that counts your age in real-time.
 - [Auto Wallpaper](https://github.com/auto-wallpaper/auto-wallpaper) - Automatically generates 4K wallpapers based on user's location, weather, and time of day or any custom prompts.
 - [bewCloud Desktop Sync](https://github.com/bewcloud/bewcloud-desktop) - Desktop sync app for bewCloud, a simpler alternative to Nextcloud and ownCloud.
+- [TypeView - KeyStroke Visualizer](https://github.com/dunkbing/typeview) - Visualizes keys pressed on the screen and simulates the sound of mechanical keyboard.
 - [Browsernaut](https://github.com/billyjacoby/browsernaut) - Browser picker for macOS.
 - [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
 - [Clippy](https://github.com/0-don/clippy) - Modern & Fast Clipboard Manager.
