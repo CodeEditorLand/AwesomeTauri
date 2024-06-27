@@ -2,6 +2,6 @@
 	"name": "awesome-tauri",
 	"main": "index.js",
 	"devDependencies": {
-		"awesome-lint": "^0.18.0"
+		"awesome-lint": "0.18.0"
 	}
 }
