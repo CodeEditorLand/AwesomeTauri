@@ -1,7 +1,7 @@
 {
 	"description": "<!-- <p align=\"center\">   <br>   <img width=\"400\" src=\"./assets/logo.svg\" alt=\"logo of awesome-vite repository\">   <br>   <br> </p> -->",
 	"devDependencies": {
-		"awesome-lint": "^0.18.0"
+		"awesome-lint": "0.18.0"
 	},
 	"main": "index.js",
 	"name": "awesome-tauri",
