@@ -387,33 +387,21 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Gaming
 
--   [9Launcher](https://github.com/wearrrrr/9Launcher) - Modern Cross-platform
-    launcher for Touhou Project Games.
--   [BestCraft](https://github.com/Tnze/ffxiv-best-craft) - Crafting simulator
-    with solver algorithms for Final Fantasy XIV(FF14).
--   [BetterFleet](https://github.com/zelytra/BetterFleet) - Help players of Sea
-    of Thieves create an alliance server.
--   [clear](https://clear.adithya.zip) - Clean and minimalist video game library
-    manager and launcher.
--   [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game
-    shuffling utility.
--   [En Croissant](https://github.com/franciscoBSalgueiro/en-croissant) - Chess
-    database and game analysis app.
--   [FishLauncher](https://github.com/fishfight/FishLauncher) - Cross-platform
-    launcher for `Fish Fight`.
--   [Modrinth App](https://github.com/modrinth/code/blob/main/apps/app) -
-    Cross-platform launcher for `Minecraft` with mod management.
--   [OpenGOAL](https://github.com/open-goal/launcher) - Cross-platform
-    installer, mod-manager and launcher for `OpenGOAL`; the reverse engineered
-    PC ports of the Jak and Daxter series.
--   [OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - Software that helps you
-    sleep in virtual reality, for use with SteamVR, VRChat, and more.
--   [Resolute](https://github.com/Gawdl3y/Resolute) - User-friendly,
-    cross-platform mod manager for the game Resonite.
--   [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Tool
-    for customizing the art of your Steam games.
--   [Teyvat Guide](https://github.com/BTMuli/TeyvatGuide) - Game Tool for
-    Genshin Impact player.
+- [9Launcher](https://github.com/wearrrrr/9Launcher) - Modern Cross-platform launcher for Touhou Project Games.
+- [BestCraft](https://github.com/Tnze/ffxiv-best-craft) - Crafting simulator with solver algorithms for Final Fantasy XIV(FF14).
+- [BetterFleet](https://github.com/zelytra/BetterFleet) - Help players of Sea of Thieves create an alliance server.
+- [clear](https://clear.adithya.zip) - Clean and minimalist video game library manager and launcher.
+- [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility.
+- [En Croissant](https://github.com/franciscoBSalgueiro/en-croissant) - Chess database and game analysis app.
+- [FishLauncher](https://github.com/fishfight/FishLauncher) - Cross-platform launcher for `Fish Fight`.
+- [Modrinth App](https://github.com/modrinth/code/blob/main/apps/app) - Cross-platform launcher for `Minecraft` with mod management.
+- [OpenGOAL](https://github.com/open-goal/launcher) - Cross-platform installer, mod-manager and launcher for `OpenGOAL`; the reverse engineered PC ports of the Jak and Daxter series.
+- [Outer Wilds Mod Manager](https://github.com/ow-mods/ow-mod-man) - Cross-platform mod manager for `Outer Wilds`.
+- [OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - Software that helps you sleep in virtual reality, for use with SteamVR, VRChat, and more.
+- [Rai Pal](https://github.com/raicuparta/rai-pal) - Manager for universal mods such as `UEVR` and `UUVR`.
+- [Resolute](https://github.com/Gawdl3y/Resolute) - User-friendly, cross-platform mod manager for the game Resonite.
+- [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Tool for customizing the art of your Steam games.
+- [Teyvat Guide](https://github.com/BTMuli/TeyvatGuide) - Game Tool for Genshin Impact player.
 
 ### Information
 
@@ -494,44 +482,25 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Productivity
 
--   [Banban](https://github.com/HubertK05/banban) - Kanban board with tags,
-    categories and markdown support.
--   [BuildLog](https://github.com/rajatkulkarni95/buildlog) - Menu bar for
-    keeping track of Vercel Deployments.
--   [Dalgona](https://github.com/GHGHGHKO/dalgona) - GIF meme finder app for
-    Windows and macOS.
--   [GitBar](https://github.com/mikaelkristiansson/gitbar) - System tray app for
-    GitHub reviews.
--   [Gitification](https://github.com/Gitification-App/gitification) - Menu bar
-    app for managing Github notifications.
--   [Google Task Desktop Client](https://github.com/codad5/google-task-tauri) -
-    Google Task Desktop Client
--   [Kanri](https://github.com/trobonox/kanri) - Cross-platform, offline-first
-    Kanban board app with a focus on simplicity and user experience.
--   [Kianalol](https://github.com/zxh3/kianalol) - Spotlight-like efficiency
-    tool for swift website access.
--   [Kunkun](https://kunkun.sh/) - Cross-platform, extensible app launcher.
-    Alternative to Alfred and Raycast.
--   [Link Saas](https://github.com/linksaas/desktop) - Efficiency tools for
-    software development teams.
--   [MacroGraph](https://github.com/Brendonovich/macrograph) - Visual
-    programming for content creators.
--   [mynd](https://github.com/Gnarus-G/mynd) - Quick and very simple todo-list
-    management app for developers that live mostly in the terminal.
--   [Obliqoro](https://github.com/mrjackwills/obliqoro) - Oblique Strategies
-    meets Pomodoro.
--   [Pomodoro](https://github.com/g07cha/pomodoro) - Time management tool based
-    on Pomodoro technique.
--   [Remind Me Again](https://github.com/probablykasper/remind-me-again) -
-    Toggleable reminders app for Mac, Linux and Windows.
--   [TimeChunks](https://danielulrich.com/en/timechunks/) ![closed source] -
-    Time tracking for freelancers without timers and HH:MM:SS inputs.
--   [WindowPet](https://github.com/SeakMengs/WindowPet) - Overlay app that lets
-    you have adorable companions such as pets and anime characters on your
-    screen.
--   [Zawee](https://zawee.net) ![closed source] - Experience the synergy of
-    Kanban boards, note-taking, file sharing, and more, seamlessly integrated
-    into one powerful application.
+- [Banban](https://github.com/HubertK05/banban) - Kanban board with tags, categories and markdown support.
+- [BuildLog](https://github.com/rajatkulkarni95/buildlog) - Menu bar for keeping track of Vercel Deployments.
+- [Dalgona](https://github.com/GHGHGHKO/dalgona) - GIF meme finder app for Windows and macOS.
+- [EcoPaste](https://github.com/ayangweb/EcoPaste/tree/master) - Powerful open-source clipboard manager for MacOS and Windows platforms.
+- [GitBar](https://github.com/mikaelkristiansson/gitbar) - System tray app for GitHub reviews.
+- [Gitification](https://github.com/Gitification-App/gitification) - Menu bar app for managing Github notifications.
+- [Google Task Desktop Client](https://github.com/codad5/google-task-tauri) - Google Task Desktop Client
+- [Kanri](https://github.com/trobonox/kanri) - Cross-platform, offline-first Kanban board app with a focus on simplicity and user experience.
+- [Kianalol](https://github.com/zxh3/kianalol) - Spotlight-like efficiency tool for swift website access.
+- [Kunkun](https://kunkun.sh/) - Cross-platform, extensible app launcher. Alternative to Alfred and Raycast.
+- [Link Saas](https://github.com/linksaas/desktop) - Efficiency tools for software development teams.
+- [MacroGraph](https://github.com/Brendonovich/macrograph) - Visual programming for content creators.
+- [mynd](https://github.com/Gnarus-G/mynd) - Quick and very simple todo-list management app for developers that live mostly in the terminal.
+- [Obliqoro](https://github.com/mrjackwills/obliqoro) - Oblique Strategies meets Pomodoro.
+- [Pomodoro](https://github.com/g07cha/pomodoro) - Time management tool based on Pomodoro technique.
+- [Remind Me Again](https://github.com/probablykasper/remind-me-again) - Toggleable reminders app for Mac, Linux and Windows.
+- [TimeChunks](https://danielulrich.com/en/timechunks/) ![closed source] - Time tracking for freelancers without timers and HH:MM:SS inputs.
+- [WindowPet](https://github.com/SeakMengs/WindowPet) - Overlay app that lets you have adorable companions such as pets and anime characters on your screen.
+- [Zawee](https://zawee.net) ![closed source] - Experience the synergy of Kanban boards, note-taking, file sharing, and more, seamlessly integrated into one powerful application.
 
 ### Search
 
