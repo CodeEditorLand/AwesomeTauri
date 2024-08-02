@@ -244,21 +244,14 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### ChatGPT clients
 
--   [chatbox](https://github.com/Bin-Huang/chatbox) - Cross-platform desktop
-    application for ChatGPT API (OpenAI API), also a prompt debugging and
-    management tool.
--   [ChatGPT](https://github.com/lencx/ChatGPT) - Cross-platform ChatGPT desktop
-    application.
--   [ChatGPT App](https://github.com/Poordeveloper/chatgpt-app) - Cross-platform
-    ChatGPT App and more.
--   [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) -
-    Cross-platform productivity ChatGPT assistant launcher.
--   [Orion](https://github.com/taecontrol/orion) - Cross-platform app that lets
-    you create multiple AI assistants with specific goals powered with ChatGPT.
--   [QuickGPT](https://github.com/dubisdev/quickgpt) - Lightweight AI assistant
-    for Windows.
--   [Yack](https://github.com/rajatkulkarni95/yack) - Spotlight like app for
-    interfacing with GPT APIs
+- [chatbox](https://github.com/Bin-Huang/chatbox) - Cross-platform desktop application for ChatGPT API (OpenAI API), also a prompt debugging and management tool.
+- [ChatGPT](https://github.com/lencx/ChatGPT) - Cross-platform ChatGPT desktop application.
+- [ChatGPT App](https://github.com/Poordeveloper/chatgpt-app) - Cross-platform ChatGPT App and more.
+- [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Cross-platform productivity ChatGPT assistant launcher.
+- [Kaas](https://github.com/0xfrankz/Kaas) - Cross-platform desktop LLM client for OpenAI ChatGPT, Anthropic Claude, Microsoft Azure and more, with a focus on privacy and security.
+- [Orion](https://github.com/taecontrol/orion) - Cross-platform app that lets you create multiple AI assistants with specific goals powered with ChatGPT.
+- [QuickGPT](https://github.com/dubisdev/quickgpt) - Lightweight AI assistant for Windows.
+- [Yack](https://github.com/rajatkulkarni95/yack) - Spotlight like app for interfacing with GPT APIs
 
 ### Data
 
@@ -496,6 +489,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [MacroGraph](https://github.com/Brendonovich/macrograph) - Visual programming for content creators.
 - [mynd](https://github.com/Gnarus-G/mynd) - Quick and very simple todo-list management app for developers that live mostly in the terminal.
 - [Obliqoro](https://github.com/mrjackwills/obliqoro) - Oblique Strategies meets Pomodoro.
+- [PasteBar](https://github.com/PasteBar/PasteBarApp) - Limitless, Free Clipboard Manager for Mac and Windows. Effortless management of everything you copy and paste.
 - [Pomodoro](https://github.com/g07cha/pomodoro) - Time management tool based on Pomodoro technique.
 - [Remind Me Again](https://github.com/probablykasper/remind-me-again) - Toggleable reminders app for Mac, Linux and Windows.
 - [Takma](https://github.com/jam53/Takma) - Kanban-style to-do app, fully offline with support for Markdown, labels, due dates, checklists and deep linking.
