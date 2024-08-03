@@ -409,14 +409,12 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Learning
 
--   [Manjaro Starter](https://github.com/oguzkaganeren/manjaro-starter) -
-    Documentation and support app for new Manjaro users.
--   [Piano Trainer](https://github.com/ZaneH/piano-trainer) - Practice piano
-    chords, scales, and more using your MIDI keyboard.
--   [Solars](https://github.com/hiltontj/solars) - Visualize the planets of our
-    solar system.
--   [Syre](https://github.com/syre-data/syre) - Scientific data assistant.
--   [Rosary](https://github.com/Roseblume/Rosary) - Study Christianity.
+- [Japanese](https://github.com/meel-hd/japanese) - Learn Japanese Hiragana and Katakana. Memorize, write, pronounce, and test your knowledge.
+- [Manjaro Starter](https://github.com/oguzkaganeren/manjaro-starter) - Documentation and support app for new Manjaro users.
+- [Piano Trainer](https://github.com/ZaneH/piano-trainer) - Practice piano chords, scales, and more using your MIDI keyboard.
+- [Solars](https://github.com/hiltontj/solars) - Visualize the planets of our solar system.
+- [Syre](https://github.com/syre-data/syre) - Scientific data assistant.
+- [Rosary](https://github.com/Roseblume/Rosary) - Study Christianity.
 
 ### Networking
 
@@ -539,84 +537,45 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Utilities
 
--   [AgeTimer](https://github.com/dhextras/age-timer-tauri) - Desktop utility
-    that counts your age in real-time.
--   [Auto Wallpaper](https://github.com/auto-wallpaper/auto-wallpaper) -
-    Automatically generates 4K wallpapers based on user's location, weather, and
-    time of day or any custom prompts.
--   [bewCloud Desktop Sync](https://github.com/bewcloud/bewcloud-desktop) -
-    Desktop sync app for bewCloud, a simpler alternative to Nextcloud and
-    ownCloud.
--   [TypeView - KeyStroke Visualizer](https://github.com/dunkbing/typeview) -
-    Visualizes keys pressed on the screen and simulates the sound of mechanical
-    keyboard.
--   [Browsernaut](https://github.com/billyjacoby/browsernaut) - Browser picker
-    for macOS.
--   [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record
-    Clipboard Content.
--   [Clippy](https://github.com/0-don/clippy) - Modern & Fast Clipboard Manager.
--   [Fancy Screen Recorder](https://fancyapps.com/freebies/) ![closed source] -
-    Record entire screen or a selected area, trim and save as a GIF or video.
--   [Flying Carpet](https://github.com/spieglt/flyingcarpet) - File transfer
-    between Android, iOS, Linux, macOS, and Windows over auto-configured
-    hotspot.
--   [Happy](https://github.com/thewh1teagle/happy) - Control HappyLight
-    compatible LED strip with ease.
--   [Imagefly](https://www.imagefly.dev/?ref=awesometauri) ![closed source] -
-    Powerful offline image processing toolkit for Windows, Linux and macOS
--   [Jane Reader](https://janereader.com) ![closed source] - Modern and
-    distraction-free epub reader.
--   [KittyCAD](https://github.com/KittyCAD/modeling-app) - Modern 3D
-    mechanical/hardware design. Build 3D models with both code and WYSIWYG
-    editors.
--   [KoS - Key on Screen](https://github.com/dubisdev/key-on-screen) - Show in
-    your screen the keys you are pressing.
--   [Lanaya](https://github.com/ChurchTao/Lanaya) - Easy to use, cross-platform
-    clipboard management.
--   [Lingo](https://github.com/thewh1teagle/lingo) - Translate offline in every
-    language on every platform.
--   [Linka!](https://github.com/linka-app/linka) - AI powered, easy to use,
-    cross-platform bookmark management tool.
--   [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and
-    Inspector.
--   [Metronome](https://github.com/ZaneH/metronome) - Visual metronome for
-    Windows, Linux and macOS.
--   [Mobslide](https://github.com/thewh1teagle/mobslide) - Turn your smartphone
-    into presentation remote controller.
--   [Overlayed](https://overlayed.dev) - Voice chat overlay for Discord.
--   [Pavo](https://github.com/zhanglun/pavo) - Cross-platform desktop wallpaper
-    application.
--   [Peekaboo](https://github.com/angeldollface/peekaboo) A graphical interface
-    to display images.
--   [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas.
--   [Pot](https://github.com/pot-app/pot-desktop) - Cross-platform Translation
-    Software.
--   [Rounded Corners](https://github.com/RoundedCorners/Application) - Rounded
-    Corners app for Windows.
--   [RunMath](https://github.com/dubisdev/runmath) - Keyboard-first calculator
-    for Windows.
--   [SensiMouse](https://github.com/Nicify/sensi-mouse) - Easily change macOS
-    system-wide mouse sensitivity and acceleration settings.
--   [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI
-    companion for the self-hosted Mac version of Stable Diffusion.
--   [Stacks](https://github.com/cablehead/stacks) - Modern and capable clipboard
-    manager for macOS. Seeking Linux and Windows contributions.
--   [Tauview](https://github.com/sprout2000/tauview) - Minimalist image viewer
-    for macOS and Linux based on Leaflet.js.
--   [ToeRings](https://github.com/acarl005/toerings) - Conky Seamod inspired
-    system monitor app.
--   [Toolcat](https://toolcat.app) ![closed source] - All-in-one toolkit for
-    developers and creators.
--   [TrguiNG](https://github.com/openscopeproject/TrguiNG) - Remote GUI for
-    Transmission torrent daemon.
--   [Verve](https://github.com/ParthJadhav/verve) - Launcher for accessing and
-    opening applications, files and documents.
--   [Vibe](https://thewh1teagle.github.io/vibe) - Transcribe audio or video in
-    every language on every platform.
--   [Wallpaper changer](https://github.com/zeet2020/wallpaper-changer-tauri) -
-    Simple wallpaper changer app.
--   [Zap](https://usezap.sh/?ref=awesometauri) ![closed source] - macOS
-    spotlight-like dock that makes navigating apps convenient.
+- [AgeTimer](https://github.com/dhextras/age-timer-tauri) - Desktop utility that counts your age in real-time.
+- [Auto Wallpaper](https://github.com/auto-wallpaper/auto-wallpaper) - Automatically generates 4K wallpapers based on user's location, weather, and time of day or any custom prompts.
+- [bewCloud Desktop Sync](https://github.com/bewcloud/bewcloud-desktop) - Desktop sync app for bewCloud, a simpler alternative to Nextcloud and ownCloud.
+- [TypeView - KeyStroke Visualizer](https://github.com/dunkbing/typeview) - Visualizes keys pressed on the screen and simulates the sound of mechanical keyboard.
+- [Browsernaut](https://github.com/billyjacoby/browsernaut) - Browser picker for macOS.
+- [Clipboard Record](https://github.com/lesterhnu/clipboard) - Record Clipboard Content.
+- [Clippy](https://github.com/0-don/clippy) - Modern & Fast Clipboard Manager.
+- [Fancy Screen Recorder](https://fancyapps.com/freebies/) ![closed source] - Record entire screen or a selected area, trim and save as a GIF or video.
+- [FanslySync](https://github.com/SticksDev/FanslySync) - Sync your Fansly data with 3rd party applications, securely!
+- [Flying Carpet](https://github.com/spieglt/flyingcarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over auto-configured hotspot.
+- [Happy](https://github.com/thewh1teagle/happy) - Control HappyLight compatible LED strip with ease.
+- [Imagefly](https://www.imagefly.dev/?ref=awesometauri) ![closed source] - Powerful offline image processing toolkit for Windows, Linux and macOS
+- [Jane Reader](https://janereader.com) ![closed source] - Modern and distraction-free epub reader.
+- [KittyCAD](https://github.com/KittyCAD/modeling-app) - Modern 3D mechanical/hardware design. Build 3D models with both code and WYSIWYG editors.
+- [KoS - Key on Screen](https://github.com/dubisdev/key-on-screen) - Show in your screen the keys you are pressing.
+- [Lanaya](https://github.com/ChurchTao/Lanaya) - Easy to use, cross-platform clipboard management.
+- [Lingo](https://github.com/thewh1teagle/lingo) - Translate offline in every language on every platform.
+- [Linka!](https://github.com/linka-app/linka) - AI powered, easy to use, cross-platform bookmark management tool.
+- [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
+- [Metronome](https://github.com/ZaneH/metronome) - Visual metronome for Windows, Linux and macOS.
+- [Mobslide](https://github.com/thewh1teagle/mobslide) - Turn your smartphone into presentation remote controller.
+- [Overlayed](https://overlayed.dev) - Voice chat overlay for Discord.
+- [Pavo](https://github.com/zhanglun/pavo) - Cross-platform desktop wallpaper application.
+- [Peekaboo](https://github.com/angeldollface/peekaboo) A graphical interface to display images.
+- [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas.
+- [Pot](https://github.com/pot-app/pot-desktop) - Cross-platform Translation Software.
+- [Rounded Corners](https://github.com/RoundedCorners/Application) - Rounded Corners app for Windows.
+- [RunMath](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows.
+- [SensiMouse](https://github.com/Nicify/sensi-mouse) - Easily change macOS system-wide mouse sensitivity and acceleration settings.
+- [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
+- [Stacks](https://github.com/cablehead/stacks) - Modern and capable clipboard manager for macOS. Seeking Linux and Windows contributions.
+- [Tauview](https://github.com/sprout2000/tauview) - Minimalist image viewer for macOS and Linux based on Leaflet.js.
+- [ToeRings](https://github.com/acarl005/toerings) - Conky Seamod inspired system monitor app.
+- [Toolcat](https://toolcat.app) ![closed source] - All-in-one toolkit for developers and creators.
+- [TrguiNG](https://github.com/openscopeproject/TrguiNG) - Remote GUI for Transmission torrent daemon.
+- [Verve](https://github.com/ParthJadhav/verve) - Launcher for accessing and opening applications, files and documents.
+- [Vibe](https://thewh1teagle.github.io/vibe) - Transcribe audio or video in every language on every platform.
+- [Wallpaper changer](https://github.com/zeet2020/wallpaper-changer-tauri) - Simple wallpaper changer app.
+- [Zap](https://usezap.sh/?ref=awesometauri) ![closed source] - macOS spotlight-like dock that makes navigating apps convenient.
 
 [officially maintained]:
 	https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
