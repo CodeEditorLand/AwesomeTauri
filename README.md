@@ -66,108 +66,56 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Templates
 
--   [angular-tauri](https://github.com/maximegris/angular-tauri) - Angular with
-    Typescript, SASS, and Hot Reload.
--   [nuxtor](https://github.com/NicolaSpadari/nuxtor) - Nuxt 3 + Tauri 2 +
-    UnoCSS, a starter template for building desktop apps.
--   [tauri-angular-template](https://github.com/charlesxsh/tauri-angular-boilerplate) -
-    Angular template
--   [tauri-astro-template](https://github.com/HuakunShen/tauri-astro-template) -
-    Astro template
--   [tauri-bishop-template](https://github.com/RoseBlume/Bishop-Tauri-Template) -
-    Minimized vanilla template designed for highschool students
--   [tauri-clojurescript-template](https://github.com/rome-user/tauri-clojurescript-template) -
-    Minimal ClojureScript template with Shadow CLJS and React.
--   [tauri-deno-starter](https://github.com/marc2332/tauri-deno-starter) - React
-    template using esbuild with Deno.
--   [tauri-leptos-template](https://gitlab.com/cristofa/tauri-leptos-template) -
-    Leptos template
--   [tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) -
-    Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub
-    Actions preconfigured.
--   [tauri-nuxt-template](https://github.com/HuakunShen/tauri-nuxt-template) -
-    Nuxt3 template.
--   [tauri-preact-rsbuild-template](https://github.com/Alfredoes234/tauri-preact-rsbuild-template) -
-    Preact template that uses rsbuild, rather than vite.
--   [tauri-react-mantine-vite-template](https://github.com/elibroftw/modern-desktop-app-template) -
-    React Mantine template featuring custom titlebar for Windows, auto publish
-    action, auto update, and more.
--   [tauri-react-parcel-template](https://github.com/henrhie/tauri-react-parcel-template) -
-    React template with Parcel as build tool, TypeScript and hot module
-    replacement.
--   [tauri-rescript-template](https://github.com/JonasKruckenberg/tauri-rescript-template) -
-    Tauri, ReScript, and React template.
--   [tauri-solid-ts-tailwind-vite-template](https://github.com/AR10Dev/tauri-solid-ts-tailwind-vite) -
-    SolidJS Template preconfigured to use Vite, TypeScript, Tailwind CSS, ESLint
-    and Prettier.
--   [tauri-svelte-template](https://github.com/probablykasper/tauri-svelte-template) -
-    Svelte template with cross-platform GitHub action builds, Vite, TypeScript,
-    Svelte Preprocess, hot module replacement, ESLint and Prettier.
--   [tauri-sveltekit-template](https://github.com/deid84/tauri-sveltekit-admin-template) -
-    SvelteKit Admin template with cross-platform GitHub action builds, Vite,
-    TypeScript, Svelte Preprocess, hot module replacement, ESLint and Prettier.
--   [tauri-sycamore-template](https://github.com/JonasKruckenberg/tauri-sycamore-template) -
-    Tauri and Sycamore template.
--   [tauri-vue-template](https://github.com/Uninen/tauri-vue-template) - Vue
-    template with TypeScript, Vite + HMR, Vitest, Tailwind CSS, ESLint, and
-    GitHub Actions.
--   [tauri-vue-template-2](https://github.com/skymen/tauri-vue-template) -
-    Another vue template with Javascript, Vite, Pinia, Vue Router and Github
-    Actions.
--   [tauri-yew-example](https://bitbucket.org/ftegtmeyer/tauri-yew-stopwatch/) -
-    Simple stopwatch with Yew using commands and Tauri events.
--   [tauronic](https://github.com/rgilsimoes/Tauronic/) - Tauri template for
-    hybrid Apps using Ionic components in React flavour.
+- [angular-tauri](https://github.com/maximegris/angular-tauri) - Angular with Typescript, SASS, and Hot Reload.
+- [nuxtor](https://github.com/NicolaSpadari/nuxtor) - Nuxt 3 + Tauri 2 + UnoCSS, a starter template for building desktop apps.
+- [tauri-angular-template](https://github.com/charlesxsh/tauri-angular-boilerplate) - Angular template
+- [tauri-astro-template](https://github.com/HuakunShen/tauri-astro-template) - Astro template
+- [tauri-bishop-template](https://github.com/RoseBlume/Bishop-Tauri-Template) - Minimized vanilla template designed for highschool students.
+- [tauri-clojurescript-template](https://github.com/rome-user/tauri-clojurescript-template) - Minimal ClojureScript template with Shadow CLJS and React.
+- [tauri-deno-starter](https://github.com/marc2332/tauri-deno-starter) - React template using esbuild with Deno.
+- [tauri-leptos-template](https://gitlab.com/cristofa/tauri-leptos-template) - Leptos template
+- [tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) - Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured.
+- [tauri-nuxt-template](https://github.com/HuakunShen/tauri-nuxt-template) - Nuxt3 template.
+- [tauri-preact-rsbuild-template](https://github.com/Alfredoes234/tauri-preact-rsbuild-template) - Preact template that uses rsbuild, rather than vite.
+- [tauri-react-mantine-vite-template](https://github.com/elibroftw/modern-desktop-app-template) - React Mantine template featuring custom titlebar for Windows, auto publish action, auto update, and more.
+- [tauri-react-parcel-template](https://github.com/henrhie/tauri-react-parcel-template) - React template with Parcel as build tool, TypeScript and hot module replacement.
+- [tauri-rescript-template](https://github.com/JonasKruckenberg/tauri-rescript-template) - Tauri, ReScript, and React template.
+- [tauri-solid-ts-tailwind-vite-template](https://github.com/AR10Dev/tauri-solid-ts-tailwind-vite) - SolidJS Template preconfigured to use Vite, TypeScript, Tailwind CSS, ESLint and Prettier.
+- [tauri-svelte-template](https://github.com/probablykasper/tauri-svelte-template) - Svelte template with cross-platform GitHub action builds, Vite, TypeScript, Svelte Preprocess, hot module replacement, ESLint and Prettier.
+- [tauri-sveltekit-template](https://github.com/deid84/tauri-sveltekit-admin-template) - SvelteKit Admin template with cross-platform GitHub action builds, Vite, TypeScript, Svelte Preprocess, hot module replacement, ESLint and Prettier.
+- [tauri-sycamore-template](https://github.com/JonasKruckenberg/tauri-sycamore-template) - Tauri and Sycamore template.
+- [tauri-vue-template](https://github.com/Uninen/tauri-vue-template) - Vue template with TypeScript, Vite + HMR, Vitest, Tailwind CSS, ESLint, and GitHub Actions.
+- [tauri-vue-template-2](https://github.com/skymen/tauri-vue-template) - Another vue template with Javascript, Vite, Pinia, Vue Router and Github Actions.
+- [tauri-yew-example](https://bitbucket.org/ftegtmeyer/tauri-yew-stopwatch/) - Simple stopwatch with Yew using commands and Tauri events.
+- [tauronic](https://github.com/rgilsimoes/Tauronic/) - Tauri template for hybrid Apps using Ionic components in React flavour.
 
 ## Development
 
 ### Plugins
 
--   [tauri-plugin-authenticator](https://github.com/tauri-apps/tauri-plugin-authenticator)
-    ![officially maintained] - Interface with hardware security keys.
--   [tauri-plugin-log](https://github.com/tauri-apps/tauri-plugin-log)
-    ![officially maintained] - Configurable logging.
--   [tauri-plugin-sql](https://github.com/tauri-apps/tauri-plugin-sql)
-    ![officially maintained] - Interface with SQL databases.
--   [tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store)
-    ![officially maintained] - Persistent key value storage.
--   [tauri-plugin-stronghold](https://github.com/tauri-apps/tauri-plugin-stronghold)
-    ![officially maintained] - Encrypted, secure, p2p database.
--   [tauri-plugin-window-state](https://github.com/tauri-apps/tauri-plugin-window-state)
-    ![officially maintained] - Persist window sizes and positions.
--   [window-vibrancy](https://github.com/tauri-apps/window-vibrancy)
-    ![officially maintained] - Make your windows vibrant.
--   [window-shadows](https://github.com/tauri-apps/window-shadows)
-    ![officially maintained] - Add native shadows to your windows.
--   [tauri-plugin-positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) -
-    Move windows to common locations.
--   [tauri-plugin-graphql](https://github.com/JonasKruckenberg/tauri-plugin-graphql) -
-    Type-safe IPC for Tauri using GraphQL.
--   [sentry-tauri](https://github.com/timfish/sentry-tauri) - Capture JavaScript
-    errors, Rust panics and native crash minidumps to Sentry.
--   [tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase) -
-    Privacy-first and minimalist analytics for desktop and mobile apps.
--   [tauri-plugin-clipboard](https://github.com/CrossCopy/tauri-plugin-clipboard) -
-    Clipboard plugin for reading/writing clipboard text/image/html/rtf/files,
-    and monitoring clipboard update.
--   [taurpc](https://github.com/MatsDK/TauRPC) - Typesafe IPC wrapper for Tauri
-    commands and events.
--   [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) -
-    Native context menu.
--   [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) -
-    Tools for reading network information and scanning network.
--   [tauri-plugin-serialport](https://github.com/deid84/tauri-plugin-serialport) -
-    Cross-compatible serialport communication tool.
--   [tauri-plugin-system-info](https://github.com/HuakunShen/tauri-plugin-system-info) -
-    Detailed system information.
--   [tauri-plugin-theme](https://github.com/wyhaya/tauri-plugin-theme) -
-    Dynamically change Tauri App theme.
--   [tauri-awesome-rpc](https://github.com/ahkohd/tauri-awesome-rpc) - Custom
-    invoke system that leverages WebSocket.
--   [tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Convert a window
-    to panel.
--   [tauri-plugin-nosleep](https://github.com/pevers/tauri-plugin-nosleep/) -
-    Block the power save functionality in the OS.
+- [tauri-plugin-authenticator](https://github.com/tauri-apps/tauri-plugin-authenticator) ![officially maintained] - Interface with hardware security keys.
+- [tauri-plugin-keep-screen-on](https://gitlab.com/cristofa/tauri-plugin-keep-screen-on) - Disable screen timeout on Android and iOS.
+- [tauri-plugin-log](https://github.com/tauri-apps/tauri-plugin-log) ![officially maintained] - Configurable logging.
+- [tauri-plugin-sql](https://github.com/tauri-apps/tauri-plugin-sql) ![officially maintained] - Interface with SQL databases.
+- [tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store) ![officially maintained] - Persistent key value storage.
+- [tauri-plugin-stronghold](https://github.com/tauri-apps/tauri-plugin-stronghold) ![officially maintained] - Encrypted, secure, p2p database.
+- [tauri-plugin-window-state](https://github.com/tauri-apps/tauri-plugin-window-state) ![officially maintained] - Persist window sizes and positions.
+- [window-vibrancy](https://github.com/tauri-apps/window-vibrancy) ![officially maintained] - Make your windows vibrant.
+- [window-shadows](https://github.com/tauri-apps/window-shadows) ![officially maintained] - Add native shadows to your windows.
+- [tauri-plugin-positioner](https://github.com/JonasKruckenberg/tauri-plugin-positioner) - Move windows to common locations.
+- [tauri-plugin-graphql](https://github.com/JonasKruckenberg/tauri-plugin-graphql) - Type-safe IPC for Tauri using GraphQL.
+- [sentry-tauri](https://github.com/timfish/sentry-tauri) - Capture JavaScript errors, Rust panics and native crash minidumps to Sentry.
+- [tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase) - Privacy-first and minimalist analytics for desktop and mobile apps.
+- [tauri-plugin-clipboard](https://github.com/CrossCopy/tauri-plugin-clipboard) - Clipboard plugin for reading/writing clipboard text/image/html/rtf/files, and monitoring clipboard update.
+- [taurpc](https://github.com/MatsDK/TauRPC) - Typesafe IPC wrapper for Tauri commands and events.
+- [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) - Native context menu.
+- [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) - Tools for reading network information and scanning network.
+- [tauri-plugin-serialport](https://github.com/deid84/tauri-plugin-serialport) - Cross-compatible serialport communication tool.
+- [tauri-plugin-system-info](https://github.com/HuakunShen/tauri-plugin-system-info) - Detailed system information.
+- [tauri-plugin-theme](https://github.com/wyhaya/tauri-plugin-theme) - Dynamically change Tauri App theme.
+- [tauri-awesome-rpc](https://github.com/ahkohd/tauri-awesome-rpc) - Custom invoke system that leverages WebSocket.
+- [tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Convert a window to panel.
+- [tauri-plugin-nosleep](https://github.com/pevers/tauri-plugin-nosleep/) - Block the power save functionality in the OS.
 
 ### Integrations
 
@@ -394,6 +342,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Rai Pal](https://github.com/raicuparta/rai-pal) - Manager for universal mods such as `UEVR` and `UUVR`.
 - [Resolute](https://github.com/Gawdl3y/Resolute) - User-friendly, cross-platform mod manager for the game Resonite.
 - [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Tool for customizing the art of your Steam games.
+- [Tauri Chess](https://github.com/jamessizeland/tauri-chess) - Implementation of Chess, logic in Rust and visualization in React.
 - [Teyvat Guide](https://github.com/BTMuli/TeyvatGuide) - Game Tool for Genshin Impact player.
 
 ### Information
@@ -480,6 +429,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [GitBar](https://github.com/mikaelkristiansson/gitbar) - System tray app for GitHub reviews.
 - [Gitification](https://github.com/Gitification-App/gitification) - Menu bar app for managing Github notifications.
 - [Google Task Desktop Client](https://github.com/codad5/google-task-tauri) - Google Task Desktop Client
+- [jasnoo](https://jasnoo.com) ![closed source] ![paid] - Desktop software designed to help you solve problems, prioritise daily actions and focus
 - [Kanri](https://github.com/trobonox/kanri) - Cross-platform, offline-first Kanban board app with a focus on simplicity and user experience.
 - [Kianalol](https://github.com/zxh3/kianalol) - Spotlight-like efficiency tool for swift website access.
 - [Kunkun](https://kunkun.sh/) - Cross-platform, extensible app launcher. Alternative to Alfred and Raycast.
