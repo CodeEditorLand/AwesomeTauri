@@ -116,6 +116,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-awesome-rpc](https://github.com/ahkohd/tauri-awesome-rpc) - Custom invoke system that leverages WebSocket.
 - [tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Convert a window to panel.
 - [tauri-plugin-nosleep](https://github.com/pevers/tauri-plugin-nosleep/) - Block the power save functionality in the OS.
+- [tauri-plugin-udp](https://github.com/kuyoonjo/tauri-plugin-udp) - UDP socket support.
 
 ### Integrations
 
@@ -160,35 +161,19 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Audio & Video
 
--   [Cider](https://cider.sh) ![closed source] - 3rd Party Client for Apple
-    Music, Complete with Audio Lab.
--   [Curses](https://github.com/mmpneo/curses) - Speech-to-Text and
-    Text-to-Speech captions for OBS, VRChat, Twitch chat and more.
--   [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) -
-    Cross-platform douyin video downloader.
--   [Feiyu Player](https://github.com/idootop/feiyu-player) - Cross-platform
-    online video player where beauty meets functionality.
--   [Hypetrigger](https://hypetrigger.io/) ![closed source] - Detect highlight
-    clips in video with FFMPEG + Tensorflow on the GPU.
--   [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - GUI client for a
-    Jellyfin server based on Vue.js and Tauri.
--   [Lofi Engine](https://github.com/meel-hd/lofi-engine) - Generate Lo-Fi music
-    on the go and locally.
--   [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media
-    management application.
--   [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file
-    tagging app.
--   [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player
-    and tagger for offline music.
--   [screenpipe](https://github.com/louis030195/screen-pipe) - Build AI apps
-    based on all your screens & mics context.
--   [Watson.ai](https://github.com/LatentDream/watson.ai) - Easily record and
-    extract the most important information from your meetings.
--   [XGetter](https://github.com/xgetter-team/xgetter) ![closed source]-
-    Cross-platform GUI to download videos and audio from Youtube, Facebook,
-    X(Twitter), Instagram, Tiktok and more.
--   [yt-dlp GUI](https://github.com/gaeljacquin/yt-dlp-gui) - Cross-platform GUI
-    client for the `yt-dlp` command-line audio/video downloader.
+- [Curses](https://github.com/mmpneo/curses) - Speech-to-Text and Text-to-Speech captions for OBS, VRChat, Twitch chat and more.
+- [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) - Cross-platform douyin video downloader.
+- [Feiyu Player](https://github.com/idootop/feiyu-player) - Cross-platform online video player where beauty meets functionality.
+- [Hypetrigger](https://hypetrigger.io/) ![closed source] - Detect highlight clips in video with FFMPEG + Tensorflow on the GPU.
+- [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - GUI client for a Jellyfin server based on Vue.js and Tauri.
+- [Lofi Engine](https://github.com/meel-hd/lofi-engine) - Generate Lo-Fi music on the go and locally.
+- [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
+- [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
+- [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music. 
+- [screenpipe](https://github.com/louis030195/screen-pipe) - Build AI apps based on all your screens & mics context.
+- [Watson.ai](https://github.com/LatentDream/watson.ai) - Easily record and extract the most important information from your meetings.
+- [XGetter](https://github.com/xgetter-team/xgetter) ![closed source]- Cross-platform GUI to download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
+- [yt-dlp GUI](https://github.com/gaeljacquin/yt-dlp-gui) - Cross-platform GUI client for the `yt-dlp` command-line audio/video downloader.
 
 ### ChatGPT clients
 
@@ -394,31 +379,19 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Office & Writing
 
--   [Bidirectional](https://github.com/samirdjelal/bidirectional) - Write Arabic
-    text in apps that don't support bidirectional text.
--   [Blank](https://github.com/FPurchess/blank) - Minimalistic, opinionated
-    markdown editor made for writing.
--   [Ensō](https://enso.sonnet.io) ![closed source] - Write now, edit later.
-    Ensō is a writing tool that helps you enter a state of flow.
--   [Handwriting keyboard](https://github.com/BigIskander/Handwriting-keyboard-for-Linux-tesseract) -
-    Handwriting keyboard for Linux X11 desktop environment.
--   [JournalV](https://github.com/ahmedkapro/journalv) - Journaling app for your
-    days and dreams.
--   [MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown editor
-    application with built-in ChatGPT extension.
--   [MDX Editor](https://github.com/maqi1520/mdx-editor/tree/tauri-app) -
-    Versatile WeChat typesetting editor and cross-platform Markdown note-taking
-    software.
--   [Noor](https://noor.to/) ![closed source] - Chat app for high-performance
-    teams. Designed for uninterrupted deep work and rapid collaboration.
--   [Notedown](https://github.com/ruralad/notedown) - Minimal, local-first
-    cross-platform note taking app.
--   [Parchment](https://github.com/tywil04/parchment) - Simple local-only
-    cross-platform text editor with basic markdown support.
--   [Semanmeter](https://yibiao.fun/) ![closed source] - OCR and document
-    conversion software.
--   [Ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) -
-    Cross-platform markdown editor; built with Yew, Tailwind, and DaisyUI.
+- [Bidirectional](https://github.com/samirdjelal/bidirectional) - Write Arabic text in apps that don't support bidirectional text.
+- [Blank](https://github.com/FPurchess/blank) - Minimalistic, opinionated markdown editor made for writing.
+- [Ensō](https://enso.sonnet.io) ![closed source] - Write now, edit later. Ensō is a writing tool that helps you enter a state of flow.
+- [Handwriting keyboard](https://github.com/BigIskander/Handwriting-keyboard-for-Linux-tesseract) - Handwriting keyboard for Linux X11 desktop environment.
+- [JournalV](https://github.com/ahmedkapro/journalv) - Journaling app for your days and dreams.
+- [MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown editor application with built-in ChatGPT extension.
+- [MD Viewer](https://github.com/kuyoonjo/md-viewer) - Cross-platform markdown viewer.
+- [MDX Editor](https://github.com/maqi1520/mdx-editor/tree/tauri-app) - Versatile WeChat typesetting editor and cross-platform Markdown note-taking software.
+- [Noor](https://noor.to/) ![closed source] - Chat app for high-performance teams. Designed for uninterrupted deep work and rapid collaboration.
+- [Notedown](https://github.com/ruralad/notedown) - Minimal, local-first cross-platform note taking app.
+- [Parchment](https://github.com/tywil04/parchment) - Simple local-only cross-platform text editor with basic markdown support.
+- [Semanmeter](https://yibiao.fun/) ![closed source] - OCR and document conversion software.
+- [Ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) - Cross-platform markdown editor; built with Yew, Tailwind, and DaisyUI.
 
 ### Productivity
 
@@ -455,24 +428,16 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Security
 
--   [Authme](https://github.com/Levminer/authme) - Two-factor (2FA)
-    authentication app for desktop.
--   [Calciumdibromid](https://codeberg.org/Calciumdibromid/CaBr2) - Generate
-    "experiment wise safety sheets" in compliance to European law.
--   [Gluhny](https://github.com/angeldollface/gluhny) A graphical interface to
-    validate IMEI numbers.
--   [OneKeePass](https://github.com/OneKeePass/desktop) - Secure, modern,
-    cross-platform and KeePass compatible password manager.
--   [Padloc](https://github.com/padloc/padloc) - Modern, open source password
-    manager for individuals and teams.
--   [Raspirus](https://github.com/Raspirus/Raspirus) - User- and
-    resources-friendly signatures-based malware scanner.
--   [Secops](https://github.com/kunalsin9h/secops) - Ubuntu Operating System
-    security made easy.
--   [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP
-    authentication client.
--   [Truthy](https://github.com/fosslife/truthy/) - Modern cross-platform 2FA
-    manager with tons of features and a beautiful UI.
+- [Authme](https://github.com/Levminer/authme) - Two-factor (2FA) authentication app for desktop.
+- [Calciumdibromid](https://codeberg.org/Calciumdibromid/CaBr2) - Generate "experiment wise safety sheets" in compliance to European law.
+- [Defguard](https://github.com/defguard/client) - WireGuard VPN destkop client with Two-factor (2FA) authentication.
+- [Gluhny](https://github.com/angeldollface/gluhny) A graphical interface to validate IMEI numbers.
+- [OneKeePass](https://github.com/OneKeePass/desktop) - Secure, modern, cross-platform and KeePass compatible password manager.
+- [Padloc](https://github.com/padloc/padloc) - Modern, open source password manager for individuals and teams.
+- [Raspirus](https://github.com/Raspirus/Raspirus) - User- and resources-friendly signatures-based malware scanner.
+- [Secops](https://github.com/kunalsin9h/secops) - Ubuntu Operating System security made easy.
+- [Tauthy](https://github.com/pwltr/tauthy) - Cross-platform TOTP authentication client.
+- [Truthy](https://github.com/fosslife/truthy/) - Modern cross-platform 2FA manager with tons of features and a beautiful UI.
 
 ### Social media
 
@@ -513,6 +478,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Peekaboo](https://github.com/angeldollface/peekaboo) A graphical interface to display images.
 - [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas.
 - [Pot](https://github.com/pot-app/pot-desktop) - Cross-platform Translation Software.
+- [Recordscript](https://github.com/Recordscript/recordscript) - Record & transcribe your online meetings, or subtitle your files. Cross-platform local-only screen recorder & subtitle generator.
 - [Rounded Corners](https://github.com/RoundedCorners/Application) - Rounded Corners app for Windows.
 - [RunMath](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows.
 - [SensiMouse](https://github.com/Nicify/sensi-mouse) - Easily change macOS system-wide mouse sensitivity and acceleration settings.
