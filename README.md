@@ -13,56 +13,47 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ## Table of Contents
 
--   [Getting Started](#getting-started)
-    -   [Guides](#guides)
-    -   [Tutorials](#tutorials)
-    -   [Templates](#templates)
--   [Development](#development)
-    -   [Plugins](#plugins)
-    -   [Integrations](#integrations)
-    -   [Articles](#articles)
--   [Applications](#applications)
-    -   [Audio & Video](#audio--video)
-    -   [ChatGPT clients](#chatgpt-clients)
-    -   [Data](#data)
-    -   [Developer tools](#developer-tools)
-    -   [Email & Feeds](#email--feeds)
-    -   [File management](#file-management)
-    -   [Finance](#finance)
-    -   [Gaming](#gaming)
-    -   [Information](#information)
-    -   [Learning](#learning)
-    -   [Networking](#networking)
-    -   [Office & Writing](#office--writing)
-    -   [Productivity](#productivity)
-    -   [Search](#search)
-    -   [Security](#security)
-    -   [Social media](#social-media)
-    -   [Utilities](#utilities)
+- [Getting Started](#getting-started)
+  - [Guides](#guides)
+  - [Tutorials](#tutorials)
+  - [Templates](#templates)
+- [Development](#development)
+  - [Plugins](#plugins)
+  - [Integrations](#integrations)
+  - [Articles](#articles)
+- [Applications](#applications)
+  - [Audio & Video](#audio--video)
+  - [ChatGPT clients](#chatgpt-clients)
+  - [Data](#data)
+  - [Developer tools](#developer-tools)
+  - [Email & Feeds](#email--feeds)
+  - [File management](#file-management)
+  - [Finance](#finance)
+  - [Gaming](#gaming)
+  - [Information](#information)
+  - [Learning](#learning)
+  - [Networking](#networking)
+  - [Office & Writing](#office--writing)
+  - [Productivity](#productivity)
+  - [Search](#search)
+  - [Security](#security)
+  - [Social media](#social-media)
+  - [Utilities](#utilities)
 
 ## Getting Started
 
 ### Guides
 
--   [Introduction](https://tauri.app/about/intro/) ![officially maintained] -
-    Official introduction to Tauri.
--   [Getting Started](https://tauri.app/v1/guides/getting-started/prerequisites/)
-    ![officially maintained] - Official getting started with Tauri docs.
--   [create-tauri-app](https://github.com/tauri-apps/create-tauri-app)
-    ![officially maintained] - Rapidly scaffold your Tauri app.
--   [Auto-Updates with Tauri v2](https://docs.crabnebula.dev/guides/auto-updates-tauri) -
-    Setup auto-updates with Tauri and CrabNebula Cloud.
+- [Introduction](https://tauri.app/about/intro/) ![officially maintained] - Official introduction to Tauri.
+- [Getting Started](https://tauri.app/v1/guides/getting-started/prerequisites/) ![officially maintained] - Official getting started with Tauri docs.
+- [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) ![officially maintained] - Rapidly scaffold your Tauri app.
+- [Auto-Updates with Tauri v2](https://docs.crabnebula.dev/guides/auto-updates-tauri) - Setup auto-updates with Tauri and CrabNebula Cloud.
 
 ### Tutorials
 
--   [Create Tauri App with React](https://www.youtube.com/watch?v=zawhqLA7N9Y&ab_channel=chrisbiscardi) -
-    Chris Biscardi shows how easy it is to wire up a Rust crate with a JS module
-    and communicate between them.
--   [Publish to Apple's App Store](https://thinkgo.io/post/2023/02/publish_tauri_to_apples_app_store/) -
-    Details all the steps needed to publish your Mac app to the app store.
-    Includes a sample bash script.
--   [Tauri & ReactJS - Creating Modern Desktop Apps](https://youtube.com/playlist?list=PLmWYh0f8jKSjt9VC5sq2T3mFETasG2p2L) -
-    Creating a modern desktop application with Tauri.
+- [Create Tauri App with React](https://www.youtube.com/watch?v=zawhqLA7N9Y&ab_channel=chrisbiscardi) - Chris Biscardi shows how easy it is to wire up a Rust crate with a JS module and communicate between them.
+- [Publish to Apple's App Store](https://thinkgo.io/post/2023/02/publish_tauri_to_apples_app_store/) - Details all the steps needed to publish your Mac app to the app store. Includes a sample bash script.
+- [Tauri & ReactJS - Creating Modern Desktop Apps](https://youtube.com/playlist?list=PLmWYh0f8jKSjt9VC5sq2T3mFETasG2p2L) - Creating a modern desktop application with Tauri.
 
 ### Templates
 
@@ -111,6 +102,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) - Native context menu.
 - [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) - Tools for reading network information and scanning network.
 - [tauri-plugin-serialport](https://github.com/deid84/tauri-plugin-serialport) - Cross-compatible serialport communication tool.
+- [tauri-plugin-serialplugin](https://github.com/s00d/tauri-plugin-serialplugin) - Cross-compatible serialport communication tool for tauri 2.
 - [tauri-plugin-sharesheet](https://github.com/buildyourwebapp/tauri-plugin-sharesheet) - Share content to other apps via the Android Sharesheet or iOS Share Pane.
 - [tauri-plugin-system-info](https://github.com/HuakunShen/tauri-plugin-system-info) - Detailed system information.
 - [tauri-plugin-theme](https://github.com/wyhaya/tauri-plugin-theme) - Dynamically change Tauri App theme.
@@ -121,42 +113,25 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Integrations
 
--   [Astrodon](https://github.com/astrodon/astrodon) - Make Tauri desktop apps
-    with Deno.
--   [Tauri Specta](https://github.com/oscartbeaumont/tauri-specta) - Completely
-    typesafe Tauri commands.
--   [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) -
-    `axios` adapter for the `@tauri-apps/api/http` module.
--   [axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) -
-    Makes it easy to use Axios in Tauri, `axios` adapter for the
-    `@tauri-apps/api/http` module.
--   [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) - Small lib to wrap
-    around functions from tauri modules, to integrate easier with Angular.
--   [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) -
-    File drop handling component for Svelte.
--   [tauri-macos-menubar-app-example](https://github.com/ahkohd/tauri-macos-menubar-app-example) -
-    Example macOS Menubar app project.
--   [tauri-macos-spotlight-example](https://github.com/ahkohd/tauri-macos-spotlight-example) -
-    Example macOS Spotlight app project.
--   [tauri-update-cloudflare](https://github.com/KilleenCode/tauri-update-cloudflare) -
-    One-click deploy a Tauri Update Server to Cloudflare.
--   [tauri-update-server](https://git.kaki87.net/KaKi87/tauri-update-server) -
-    Automatically interface the Tauri updater with git repository releases.
--   [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) -
-    Integrate Tauri in a Vite project to build cross-platform apps.
+- [Astrodon](https://github.com/astrodon/astrodon) - Make Tauri desktop apps with Deno.
+- [Tauri Specta](https://github.com/oscartbeaumont/tauri-specta) - Completely typesafe Tauri commands.
+- [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) - `axios` adapter for the `@tauri-apps/api/http` module.
+- [axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) - Makes it easy to use Axios in Tauri, `axios` adapter for the `@tauri-apps/api/http` module.
+- [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) - Small lib to wrap around functions from tauri modules, to integrate easier with Angular.
+- [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
+- [tauri-macos-menubar-app-example](https://github.com/ahkohd/tauri-macos-menubar-app-example) - Example macOS Menubar app project.
+- [tauri-macos-spotlight-example](https://github.com/ahkohd/tauri-macos-spotlight-example) - Example macOS Spotlight app project.
+- [tauri-update-cloudflare](https://github.com/KilleenCode/tauri-update-cloudflare) - One-click deploy a Tauri Update Server to Cloudflare.
+- [tauri-update-server](https://git.kaki87.net/KaKi87/tauri-update-server) - Automatically interface the Tauri updater with git repository releases.
+- [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 
 ### Articles
 
--   [Getting Started Using Tauri Mobile](https://medium.com/p/6f90de5b098)
-    ![paid] - Ed Rutherford outlines how to create a mobile app with Tauri.
--   [How to use local SQLite database with Tauri and Rust](https://blog.moonguard.dev/how-to-use-local-sqlite-database-with-tauri) -
-    Guide to setup and use SQLite database with Tauri and Rust.
--   [Managing State in Desktop Applications with Rust and Tauri](https://blog.moonguard.dev/manage-state-with-tauri) -
-    How to share and manage any kind of state globally in Tauri apps.
--   [Setting up Actix Web in a Tauri App](https://blog.moonguard.dev/setting-up-actix-in-tauri) -
-    How to setup a HTTP server with Tauri and Actix Web.
--   [Tauri's async process](https://rfdonnelly.github.io/posts/tauri-async-rust-process/) -
-    Rob Donnelly dives deep into Async with Tauri.
+- [Getting Started Using Tauri Mobile](https://medium.com/p/6f90de5b098) ![paid] - Ed Rutherford outlines how to create a mobile app with Tauri.
+- [How to use local SQLite database with Tauri and Rust](https://blog.moonguard.dev/how-to-use-local-sqlite-database-with-tauri) - Guide to setup and use SQLite database with Tauri and Rust.
+- [Managing State in Desktop Applications with Rust and Tauri](https://blog.moonguard.dev/manage-state-with-tauri) - How to share and manage any kind of state globally in Tauri apps.
+- [Setting up Actix Web in a Tauri App](https://blog.moonguard.dev/setting-up-actix-in-tauri) - How to setup a HTTP server with Tauri and Actix Web.
+- [Tauri's async process](https://rfdonnelly.github.io/posts/tauri-async-rust-process/) - Rob Donnelly dives deep into Async with Tauri.
 
 ## Applications
 
@@ -171,7 +146,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Lofi Engine](https://github.com/meel-hd/lofi-engine) - Generate Lo-Fi music on the go and locally.
 - [mediarepo](https://github.com/Trivernis/mediarepo) - Tag-based media management application.
 - [Mr Tagger](https://github.com/probablykasper/mr-tagger) - Music file tagging app.
-- [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music. 
+- [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music.
 - [screenpipe](https://github.com/louis030195/screen-pipe) - Build AI apps based on all your screens & mics context.
 - [Watson.ai](https://github.com/LatentDream/watson.ai) - Easily record and extract the most important information from your meetings.
 - [XGetter](https://github.com/xgetter-team/xgetter) ![closed source]- Cross-platform GUI to download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
@@ -190,128 +165,71 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Data
 
--   [Annimate](https://github.com/matthias-stemmler/annimate) - Convenient
-    export of query results from the ANNIS system for linguistic corpora.
--   [BS Redis Desktop Client](https://github.com/fuyoo/bs-redis-desktop-client) -
-    The Best Surprise Redis Desktop Client.
--   [Dataflare](https://dataflare.app) ![closed source] ![paid] - Simple and
-    elegant database manager.
--   [DocKit](https://github.com/geek-fun/dockit) - GUI client for NoSQL
-    databases such as elasticsearch, OpenSearch, etc.
--   [Duckling](https://github.com/l1xnan/duckling) - Lightweight and fast viewer
-    for csv/parquet files and databases such as DuckDB, SQLite, PostgreSQL,
-    MySQL, Clickhouse, etc.
--   [Mason](https://mason.app) ![closed source] - Seamlessly query, visualize
-    and share data with your team.
--   [Noir](https://noirdb.dev) - Keyboard-driven database management client.
--   [pgMagic🪄](https://pgmagic.app/?ref=awesometauri) ![closed source]
-    ![paid] - GUI client to talk to Postgres in SQL or with natural language.
+- [Annimate](https://github.com/matthias-stemmler/annimate) - Convenient export of query results from the ANNIS system for linguistic corpora.
+- [BS Redis Desktop Client](https://github.com/fuyoo/bs-redis-desktop-client) - The Best Surprise Redis Desktop Client.
+- [Dataflare](https://dataflare.app) ![closed source] ![paid] - Simple and elegant database manager.
+- [DocKit](https://github.com/geek-fun/dockit) - GUI client for NoSQL databases such as elasticsearch, OpenSearch, etc.
+- [Duckling](https://github.com/l1xnan/duckling) - Lightweight and fast viewer for csv/parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc.
+- [Mason](https://mason.app) ![closed source] - Seamlessly query, visualize and share data with your team.
+- [Noir](https://noirdb.dev) - Keyboard-driven database management client.
+- [pgMagic🪄](https://pgmagic.app/?ref=awesometauri) ![closed source] ![paid] - GUI client to talk to Postgres in SQL or with natural language.
 
 ### Developer tools
 
--   [AHQ Store](https://github.com/ahqsoftwares/tauri-ahq-store) - Publish,
-    Update and Install apps to the Windows-specific AHQ Store.
--   [AppCenter Companion](https://github.com/zenoxs/tauri-appcenter-companion) -
-    Regroup, build and track your `VS App Center` apps.
--   [AppHub](https://github.com/francesco-gaglione/AppHub) - Streamlines
-    .appImage package installation, management, and uninstallation through an
-    intuitive Linux desktop interface.
--   [Aptakube](https://aptakube.com/) ![closed source] - Multi-cluster
-    Kubernetes UI.
--   [claws](https://clawsapp.com/) ![closed source] - Visual interface for the
-    AWS CLI.
--   [CrabNebula DevTools](https://crabnebula.dev/devtools) - Visual tool for
-    understanding your app. Optimize the development process with easy debugging
-    and profiling.
--   [CrabNebula DevTools Premium](https://crabnebula.dev/devtools)
-    ![closed source] ![paid] - Optimize the development process with easy
-    debugging and profiling. Debug the Rust portion of your app with the same
-    comfort as JavaScript!
--   [DevBox](https://www.dev-box.app/) ![closed source] - Many useful tools for
-    developers, like generators, viewers, converters, etc.
--   [DevClean](https://github.com/HuakunShen/devclean) - Clean up development
-    environment with ease.
--   [DevTools-X](https://github.com/fosslife/devtools-x) - Collection of 30+
-    cross platform development utilities.
--   [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code
-    snippet manager.
--   [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities
-    for developers on MacOS & Windows.
--   [GitButler](https://gitbutler.com) - GitButler is a new Source Code
-    Management system.
--   [GitLight](https://github.com/colinlienard/gitlight) - GitHub & GitLab
-    notifications on your desktop.
--   [JET Pilot](https://www.jet-pilot.app) - Kubernetes desktop client that
-    focuses on less clutter, speed and good looks.
--   [Hoppscotch](https://hoppscotch.com/download) ![closed source] - Trusted by
-    millions of developers to build, test and share APIs.
--   [Keadex Mina](https://github.com/keadex/keadex) - Open Source, serverless
-    IDE to easily code and organize at a scale C4 model diagrams.
--   [KFtray](https://github.com/hcavarsan/kftray) - A tray application that
-    manages port forwarding in Kubernetes.
--   [Soda](https://github.com/Web3-Builders-Alliance/soda) - Generate source
-    code from an IDL.
--   [Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app
-    with Rust with ease.
--   [Rivet](https://github.com/Ironclad/rivet) - Visual programming environment
-    for creating AI features and agents.
--   [TableX](https://tablex-tan.vercel.app/) - Table viewer for modern
-    developers
--   [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) -
-    Create and build cross-platform mobile applications.
--   [Testfully](https://testfully.io/) ![closed source] ![paid] - Offline API
-    Client & Testing tool.
--   [verbcode](https://verbcode.staaph.com/) ![closed source] - Simplify your
-    localization journey.
--   [Yaak](https://yaak.app) ![closed source] - Interact with REST and GraphQL
-    APIs.
+- [AHQ Store](https://github.com/ahqsoftwares/tauri-ahq-store) - Publish, Update and Install apps to the Windows-specific AHQ Store.
+- [AppCenter Companion](https://github.com/zenoxs/tauri-appcenter-companion) - Regroup, build and track your `VS App Center` apps.
+- [AppHub](https://github.com/francesco-gaglione/AppHub) - Streamlines .appImage package installation, management, and uninstallation through an intuitive Linux desktop interface.
+- [Aptakube](https://aptakube.com/) ![closed source] - Multi-cluster Kubernetes UI.
+- [claws](https://clawsapp.com/) ![closed source] - Visual interface for the AWS CLI.
+- [CrabNebula DevTools](https://crabnebula.dev/devtools) - Visual tool for understanding your app. Optimize the development process with easy debugging and profiling.
+- [CrabNebula DevTools Premium](https://crabnebula.dev/devtools) ![closed source] ![paid] - Optimize the development process with easy debugging and profiling. Debug the Rust portion of your app with the same comfort as JavaScript!
+- [DevBox](https://www.dev-box.app/) ![closed source] - Many useful tools for developers, like generators, viewers, converters, etc.
+- [DevClean](https://github.com/HuakunShen/devclean) - Clean up development environment with ease.
+- [DevTools-X](https://github.com/fosslife/devtools-x) - Collection of 30+ cross platform development utilities.
+- [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
+- [Echoo](https://github.com/zsmatrix62/echoo-app) - Offline/Online utilities for developers on MacOS & Windows.
+- [GitButler](https://gitbutler.com) - GitButler is a new Source Code Management system.
+- [GitLight](https://github.com/colinlienard/gitlight) - GitHub & GitLab notifications on your desktop.
+- [JET Pilot](https://www.jet-pilot.app) - Kubernetes desktop client that focuses on less clutter, speed and good looks.
+- [Hoppscotch](https://hoppscotch.com/download) ![closed source] - Trusted by millions of developers to build, test and share APIs.
+- [Keadex Mina](https://github.com/keadex/keadex) - Open Source, serverless IDE to easily code and organize at a scale C4 model diagrams.
+- [KFtray](https://github.com/hcavarsan/kftray) - A tray application that manages port forwarding in Kubernetes.
+- [Soda](https://github.com/Web3-Builders-Alliance/soda) - Generate source code from an IDL.
+- [Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with Rust with ease.
+- [Rivet](https://github.com/Ironclad/rivet) - Visual programming environment for creating AI features and agents.
+- [TableX](https://tablex-tan.vercel.app/) - Table viewer for modern developers
+- [Tauri Mobile Test](https://github.com/dedSyn4ps3/tauri-mobile-test) - Create and build cross-platform mobile applications.
+- [Testfully](https://testfully.io/) ![closed source] ![paid] - Offline API Client & Testing tool.
+- [verbcode](https://verbcode.staaph.com/) ![closed source] - Simplify your localization journey.
+- [Yaak](https://yaak.app) ![closed source] - Interact with REST and GraphQL APIs.
 
 ### Email & Feeds
 
--   [Alduin](https://alduin.stouder.io/) - Alduin is a free and open source RSS,
-    Atom and JSON feed reader that allows you to keep track of your favorite
-    websites.
--   [Aleph](https://github.com/chezhe/aleph) - Aleph is an RSS reader & podcast
-    client.
--   [BULKUS](https://github.com/KM8Oz/BULKUS) - Email validation software.
--   [Lettura](https://github.com/zhanglun/lettura) - Open-source feed reader for
-    macOS.
--   [mdsilo Desktop](https://github.com/mdSilo/mdSilo-app) - Feed reader and
-    knowledge base.
+- [Alduin](https://alduin.stouder.io/) - Alduin is a free and open source RSS, Atom and JSON feed reader that allows you to keep track of your favorite websites.
+- [Aleph](https://github.com/chezhe/aleph) - Aleph is an RSS reader & podcast client.
+- [BULKUS](https://github.com/KM8Oz/BULKUS) - Email validation software.
+- [Lettura](https://github.com/zhanglun/lettura) - Open-source feed reader for macOS.
+- [mdsilo Desktop](https://github.com/mdSilo/mdSilo-app) - Feed reader and knowledge base.
 
 ### File management
 
--   [enassi](https://github.com/enassi/enassi) - Encryption assistant that
-    encrypts and stores your notes and files.
--   [EzUp](https://github.com/HuakunShen/ezup) - File and Image uploader.
-    Designed for blog writing and note taking.
--   [Orange](https://github.com/naaive/orange) - Cross-platform file search
-    engine that can quickly locate files or folders based on keywords.
--   [Payload](https://payload.app/) ![closed source] - Drag & drop file
-    transfers over local networks.
--   [Spacedrive](https://github.com/spacedriveapp/spacedrive) - A file explorer
-    from the future.
--   [SquirrelDisk](https://github.com/adileo/squirreldisk) - Beautiful
-    cross-platform disk usage analysis tool.
--   [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) -
-    Find out what's taking up your Time Machine backup space.
--   [Xplorer](https://github.com/kimlimjustin/xplorer) - Customizable, modern
-    and cross-platform File Explorer.
+- [enassi](https://github.com/enassi/enassi) - Encryption assistant that encrypts and stores your notes and files.
+- [EzUp](https://github.com/HuakunShen/ezup) - File and Image uploader. Designed for blog writing and note taking.
+- [Orange](https://github.com/naaive/orange) - Cross-platform file search engine that can quickly locate files or folders based on keywords.
+- [Payload](https://payload.app/) ![closed source] - Drag & drop file transfers over local networks.
+- [Spacedrive](https://github.com/spacedriveapp/spacedrive) - A file explorer from the future.
+- [SquirrelDisk](https://github.com/adileo/squirreldisk) - Beautiful cross-platform disk usage analysis tool.
+- [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Find out what's taking up your Time Machine backup space.
+- [Xplorer](https://github.com/kimlimjustin/xplorer) - Customizable, modern and cross-platform File Explorer.
 
 ### Finance
 
--   [Compotes](https://github.com/Orbitale/Compotes) - Local bank account
-    operations storage to vizualize them as graphs and customize them with rules
-    and tags for better filtering.
--   [CryptoBal](https://github.com/Rabbit-Company/CryptoBal-Desktop) - Desktop
-    application for monitoring your crypto assets.
--   [Ghorbu Wallet](https://github.com/matthias-wright/ghorbu-wallet) -
-    Cross-platform desktop HD wallet for Bitcoin.
--   [nym-wallet](https://github.com/nymtech/nym/tree/develop/nym-wallet) - The
-    Nym desktop wallet enables you to use the Nym network and take advantage of
-    its key capabilities.
--   [UsTaxes](https://github.com/ustaxes/ustaxes) - Free, private, open-source
-    US tax filings.
+- [Compotes](https://github.com/Orbitale/Compotes) - Local bank account operations storage to vizualize them as graphs and customize them with rules and tags for better filtering.
+- [CryptoBal](https://github.com/Rabbit-Company/CryptoBal-Desktop) - Desktop application for monitoring your crypto assets.
+- [Ghorbu Wallet](https://github.com/matthias-wright/ghorbu-wallet) - Cross-platform desktop HD wallet for Bitcoin.
+- [nym-wallet](https://github.com/nymtech/nym/tree/develop/nym-wallet) - The Nym desktop wallet enables you to use the Nym network and take advantage of its key capabilities.
+- [UsTaxes](https://github.com/ustaxes/ustaxes) - Free, private, open-source US tax filings.
+- [Mahalli](https://github.com/AbdelilahOu/Mahalli-tauri) - Local first inventory and invoicing management app.
 
 ### Gaming
 
@@ -334,14 +252,10 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Information
 
--   [Cores](https://github.com/Levminer/cores) ![paid] - Modern hardware monitor
-    with remote monitoring.
--   [Seismic](https://github.com/breadthe/seismic) - Taskbar app for USGS
-    earthquake tracking.
--   [Stockman](https://github.com/awkj/stockman) - Display stock info on mac
-    menubar.
--   [Watchcoin](https://github.com/lifecoder1988/tauri-watch-coin) - Display
-    cypto price on OS menubar without a window.
+- [Cores](https://github.com/Levminer/cores) ![paid] - Modern hardware monitor with remote monitoring.
+- [Seismic](https://github.com/breadthe/seismic) - Taskbar app for USGS earthquake tracking.
+- [Stockman](https://github.com/awkj/stockman) - Display stock info on mac menubar.
+- [Watchcoin](https://github.com/lifecoder1988/tauri-watch-coin) - Display cypto price on OS menubar without a window.
 
 ### Learning
 
@@ -354,30 +268,18 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Networking
 
--   [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) -
-    Continuation of Clash Verge, a rule-based proxy.
--   [CyberAPI](https://github.com/vicanso/cyberapi) - API tool client for
-    developer.
--   [Jexpe](https://github.com/jexpe-apps/jexpe) - Cross-platform, open source
-    SSH and SFTP client that makes connecting to your remote servers easy.
--   [Mail-Dev](https://github.com/samirdjelal/mail-dev) - Cross-platform, local
-    SMTP server for email testing/debugging.
--   [Nhex](https://github.com/nhexirc/nhex) - Next-generation IRC client
-    inspired by HexChat.
--   [RustDesk](https://github.com/rustdesk/rustdesk-server) - Self-hosted server
-    for RustDesk, an open source remote desktop.
--   [RustDuck](https://github.com/thewh1teagle/RustDuck) - Cross platform
-    dynamic DNS updater for duckdns.org.
--   [T-Shell](https://github.com/TheBlindM/T-Shell) - An open-source SSH, SFTP
-    intelligent command line terminal application.
--   [TunnlTo](https://github.com/TunnlTo/desktop-app) - Windows WireGuard VPN
-    client built for split tunneling.
--   [UpVPN](https://github.com/upvpn/upvpn-app) - WireGuard VPN client for
-    Linux, macOS, and Windows.
--   [Watcher](https://github.com/windht/watcher) - API manager built for a
-    easier use to manage and collaborate.
--   [Wirefish](https://github.com/stefanodevenuto/wirefish) - Cross-platform
-    packet sniffer and analyzer.
+- [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge, a rule-based proxy.
+- [CyberAPI](https://github.com/vicanso/cyberapi) - API tool client for developer.
+- [Jexpe](https://github.com/jexpe-apps/jexpe) - Cross-platform, open source SSH and SFTP client that makes connecting to your remote servers easy.
+- [Mail-Dev](https://github.com/samirdjelal/mail-dev) - Cross-platform, local SMTP server for email testing/debugging.
+- [Nhex](https://github.com/nhexirc/nhex) - Next-generation IRC client inspired by HexChat.
+- [RustDesk](https://github.com/rustdesk/rustdesk-server) - Self-hosted server for RustDesk, an open source remote desktop.
+- [RustDuck](https://github.com/thewh1teagle/RustDuck) - Cross platform dynamic DNS updater for duckdns.org.
+- [T-Shell](https://github.com/TheBlindM/T-Shell) - An open-source SSH, SFTP intelligent command line terminal application.
+- [TunnlTo](https://github.com/TunnlTo/desktop-app) - Windows WireGuard VPN client built for split tunneling.
+- [UpVPN](https://github.com/upvpn/upvpn-app) - WireGuard VPN client for Linux, macOS, and Windows.
+- [Watcher](https://github.com/windht/watcher) - API manager built for a easier use to manage and collaborate.
+- [Wirefish](https://github.com/stefanodevenuto/wirefish) - Cross-platform packet sniffer and analyzer.
 
 ### Office & Writing
 
@@ -422,11 +324,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Search
 
--   [Harana](https://github.com/harana/search) - Search your desktop and 300+
-    cloud apps, instantly.
--   [Spyglass](https://github.com/a5huynh/spyglass) - Personal search engine
-    that indexes your files/folders, cloud accounts, and whatever interests you
-    on the internet.
+- [Harana](https://github.com/harana/search) - Search your desktop and 300+ cloud apps, instantly.
+- [Spyglass](https://github.com/a5huynh/spyglass) - Personal search engine that indexes your files/folders, cloud accounts, and whatever interests you on the internet.
 
 ### Security
 
@@ -443,14 +342,10 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Social media
 
--   [Dorion](https://github.com/SpikeHD/Dorion) - Light weight third-party
-    Discord client with support for plugins and themes.
--   [Identia](https://github.com/iohzrd/identia) - Decentralized social media on
-    IPFS.
--   [Kadium](https://github.com/probablykasper/kadium) - App for staying on top
-    of YouTube channel uploads.
--   [Scraper Instagram GUI Desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop) -
-    Alternative Instagram front-end for desktop.
+- [Dorion](https://github.com/SpikeHD/Dorion) - Light weight third-party Discord client with support for plugins and themes.
+- [Identia](https://github.com/iohzrd/identia) - Decentralized social media on IPFS.
+- [Kadium](https://github.com/probablykasper/kadium) - App for staying on top of YouTube channel uploads.
+- [Scraper Instagram GUI Desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop) - Alternative Instagram front-end for desktop.
 
 ### Utilities
 
@@ -475,6 +370,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Metronome](https://github.com/ZaneH/metronome) - Visual metronome for Windows, Linux and macOS.
 - [Mobslide](https://github.com/thewh1teagle/mobslide) - Turn your smartphone into presentation remote controller.
 - [Overlayed](https://overlayed.dev) - Voice chat overlay for Discord.
+- [Passwords](https://github.com/hiql/passwords-app) - A random password generator.
 - [Pavo](https://github.com/zhanglun/pavo) - Cross-platform desktop wallpaper application.
 - [Peekaboo](https://github.com/angeldollface/peekaboo) A graphical interface to display images.
 - [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas.
@@ -495,8 +391,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Wallpaper changer](https://github.com/zeet2020/wallpaper-changer-tauri) - Simple wallpaper changer app.
 - [Zap](https://usezap.sh/?ref=awesometauri) ![closed source] - macOS spotlight-like dock that makes navigating apps convenient.
 
-[officially maintained]:
-	https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
-[closed source]:
-	https://img.shields.io/badge/closed%20source-FFC131?&logoColor=black
+[officially maintained]: https://img.shields.io/badge/official-FFC131?&logo=tauri&logoColor=black
+[closed source]: https://img.shields.io/badge/closed%20source-FFC131?&logoColor=black
 [paid]: https://img.shields.io/badge/paid-FFC131?&logoColor=black
