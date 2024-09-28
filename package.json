@@ -5,7 +5,7 @@
 	"scripts": {},
 	"devDependencies": {
 <<<<<<< HEAD
-		"awesome-lint": "^0.18.0"
+		"awesome-lint": "0.18.0"
 =======
 		"awesome-lint": "1.2.0"
 >>>>>>> 1e37069d7200f0c4f3be4173a5a7928e83e2f15a
