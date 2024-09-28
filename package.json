@@ -1,13 +1,1 @@
-{
-	"name": "awesome-tauri",
-	"description": "<!-- <p align=\"center\">   <br>   <img width=\"400\" src=\"./assets/logo.svg\" alt=\"logo of awesome-vite repository\">   <br>   <br> </p> -->",
-	"main": "index.js",
-	"scripts": {},
-	"devDependencies": {
-<<<<<<< HEAD
-		"awesome-lint": "0.18.0"
-=======
-		"awesome-lint": "1.2.0"
->>>>>>> 1e37069d7200f0c4f3be4173a5a7928e83e2f15a
-	}
-}
+
